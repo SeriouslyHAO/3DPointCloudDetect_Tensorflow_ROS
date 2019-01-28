@@ -1,5 +1,8 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#@Project : DINK-Open Practical Autonomous Driving Framework.
+#@Author  : SeriousHAO
+#@Time    : 1/21/19 9:11 AM
+
+
 import rospy
 from sensor_msgs.msg import PointCloud2
 import sensor_msgs.point_cloud2 as pc2
