@@ -16,7 +16,7 @@ import os
 import time
 import tensorflow as tf
 
-sys.path.append("../voxelnet/")
+sys.path.append("../tf/")
 from model import RPN3D
 from config import cfg
 from utils import *
